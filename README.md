@@ -1,9 +1,9 @@
 PowerBI
 
-Superstore Sales Dashboard - Power BI Project Overview
-Project Title: Superstore Sales Dashboard
+Khanstore Sales Dashboard - Power BI Project Overview
+Project Title: Khanstore Sales Dashboard
 Objective:
-The primary goal of the Superstore Sales Dashboard project is to contribute to the overall success of the Superstore by leveraging advanced data analysis techniques. The focus is on time series analysis, enabling the organization to gain valuable insights into historical sales trends and forecast future performance accurately.
+The primary goal of the Khanstore Sales Dashboard project is to contribute to the overall success of the Superstore by leveraging advanced data analysis techniques. The focus is on time series analysis, enabling the organization to gain valuable insights into historical sales trends and forecast future performance accurately.
 Key Features:
 Sales Overview: A comprehensive view of total sales, profit margins, and order counts across various categories, such as regions, product types, and customer segments.
 KPI visuals to track key performance indicators like total revenue, profit, and growth trends over time.
